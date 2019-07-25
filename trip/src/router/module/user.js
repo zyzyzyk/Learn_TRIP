@@ -4,8 +4,8 @@ const tripUser = [
     name: 'Login',
     component: () => import('@/views/user/login'),
     meta: {
-      title: '登陆'
+      title: '登录'
     }
   }
 ]
-export default tripUser;
+export default tripUser

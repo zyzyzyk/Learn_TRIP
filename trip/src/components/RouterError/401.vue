@@ -23,14 +23,14 @@ export default {
   },
 }
 
-</script>
- 
+</script>>
+
 <style lang="stylus" scoped>
   .md-example-child-result-page-3
-    background #fff
+    background #ffffff
     position absolute
     top 50%
     left 50%
-    transform translate(-50%, -50%)
+    transform translate(-50%,-50%)
     margin-top -100px
 </style>
